@@ -1,0 +1,4 @@
+C:\Windows\System32\HelloworldApp\obj\Debug\net8.0\HelloworldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Windows\System32\HelloworldApp\obj\Debug\net8.0\HelloworldApp.AssemblyInfoInputs.cache
+C:\Windows\System32\HelloworldApp\obj\Debug\net8.0\HelloworldApp.AssemblyInfo.cs
+C:\Windows\System32\HelloworldApp\obj\Debug\net8.0\HelloworldApp.csproj.CoreCompileInputs.cache
